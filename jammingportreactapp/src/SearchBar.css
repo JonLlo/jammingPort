@@ -1,0 +1,21 @@
+h2{
+  color:blue;
+}
+#searchbarbit {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  
+  height: 20vh; /* Set the height to 100% of the viewport height */
+}
+#searchbarbit button {
+  margin-top: 20px;
+  border: blue 2px solid;
+  border-radius: 2px;
+
+}
+#searchbarbit button:hover {
+  background-color:white;
+
+}

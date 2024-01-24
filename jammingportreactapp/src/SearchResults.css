@@ -1,0 +1,10 @@
+h2{
+  color:blue;
+}
+#resultsbox {
+  text-align: center;
+  border: solid blue 2px;
+  width: 30%;
+
+  margin-top:30px;
+}

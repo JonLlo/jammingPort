@@ -10,7 +10,7 @@ function SBF() {
   return (
     <>
       <div id = "searchbarbit">
-        <h2>JAMMING</h2>
+        <h2>JAMMING!</h2>
         <form>
           <label for="search"></label>
           <input id="search" type="text" onChange={handleUserInput} value={userInput} />
